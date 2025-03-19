@@ -14,10 +14,13 @@
 ![Quote Genarator Thumbnail](image.png)
 
 ## Deployment Link
-Live Demo
+[Live Demo](https://quote-generator-yh6r.onrender.com)
 
 ## How to Use
-
+Generate a Quote: Click the "New quote" button to view a random quote and its author.
+Export the Quote: Use the "Export" button to download the quote as a text file.
+Share the Quote: Share the displayed quote on social media using the "Share on Twitter" button.
+Copy the Quote: Click the "Copy" button to copy the quote to your clipboard for easy sharing.
 
 ## Installation
 Clone the repository:
