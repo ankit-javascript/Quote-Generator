@@ -23,10 +23,13 @@ Share the Quote: Share the displayed quote on social media using the "Share on T
 Copy the Quote: Click the "Copy" button to copy the quote to your clipboard for easy sharing.
 
 ## Installation
-Clone the repository:
-git clone https://github.com/your-username/mood-tracker.git
-Open index.html in a browser.
-Start tracking your moods!
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ankit-javascript/Quote-Generator.git
+   ```
+2. Open `index.html` in a browser.
+3. Start reading new quotes!
 
 ### Technologies Used
 - HTML
